@@ -1,3 +1,4 @@
+/* jshint esversion: 6*/
 //find sum of all border elements of a matrix
 const a = [
     [1,1,1,1,1],
