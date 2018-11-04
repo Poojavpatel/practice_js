@@ -1,1 +1,1 @@
-# practice_js
+# Some simple javascript programs
